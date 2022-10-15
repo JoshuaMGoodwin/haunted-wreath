@@ -1,1 +1,1 @@
-# haunted-wreath
+This is the Arduino files for the 3D Printed haunted wreath. This builds off the Uncanny Eyes project from Adafruit. The 3d printer files and wiring diagram are on Thingiverse at https://www.thingiverse.com/thing:5568107. And a video on the project is on YouTube at https://youtu.be/OKa_pJlWwfA.
